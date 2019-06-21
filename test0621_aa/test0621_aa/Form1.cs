@@ -21,5 +21,11 @@ namespace test0621_aa
         {
             button1.Text = "okkkkkkk";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button2.Text = "oooooooooooooooooook";
+            //11111111111111111111111
+            //74757775744
     }
 }
